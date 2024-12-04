@@ -18,7 +18,7 @@ If you use <b>IntelliJ IDEA</b>
        * Here I provided the jar file, if you want to download the new version, you can download <a href="https://dev.mysql.com/downloads/connector/j/">here.</a>
        * Move the jar file to this folder
     </pre>
-    i) Implement the jar file in your program
+    ii) Implement the jar file in your program
     <br>
     <br>
     <pre>
@@ -38,7 +38,7 @@ If you use <b>Eclipse IDE</b>
        * Here I provided the jar file, if you want to download the new version, you can download <a href="https://dev.mysql.com/downloads/connector/j/">here.</a>
        * Move the jar file to this folder
     </pre>
-    i) Implement the jar file in your program
+    ii) Implement the jar file in your program
     <br>
     <br>
     <pre>
