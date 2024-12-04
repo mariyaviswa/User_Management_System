@@ -50,11 +50,12 @@ IF you use <b>Eclipse IDE</b>
 <h2>MySQL Setup</h2>
    i) Install any database (MySQL, SQLite)<br>
    ii) After you install, set your username and password<br>
-   iii) provide your username and password in the program, Here you can see <br>
-        <img src = "">
+   iii) provide your username and password in the program, Here you can see <br><br>
+        <img src = "https://github.com/mariyaviswa/User_Management_System/blob/main/changes_in_program.png">
     iv) After that create a database and table (ID, Name, Age, City) for perform<br>
 
-<h3>program Interface</h3>
+<h2>program Interface</h2>
+<img src="https://github.com/mariyaviswa/User_Management_System/blob/main/interface.png">
 
     
 
