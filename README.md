@@ -1,13 +1,13 @@
 <h1>Description</h1>
 <p align = "justify">
-developed a simple user management system using Java and SQL, with JDBC serving as the connection bridge to the SQL database. 
+Developed a simple <b>user management system</b> using Java and SQL, with JDBC as the connection bridge to the SQL database. 
   This system is designed to collect user details such as ID, name, age, and city, and store them in a structured SQL database. 
   It supports essential CRUD operations, including saving new records, clearing input fields, deleting existing entries, and retrieving data. 
   This project highlights practical database interaction and efficient management of user information through an intuitive interface.
 </p>
 
 <h2>Connect JDBC Driver</h2>
-IF you use <b>IntelliJ IDEA</b>
+If you use <b>IntelliJ IDEA</b>
  <br>
  <br>
     i) Add the jar folder
@@ -16,9 +16,9 @@ IF you use <b>IntelliJ IDEA</b>
     <pre>
        * Create Folder
        * Here I provided the jar file, if you want to download the new version, you can download <a href="https://dev.mysql.com/downloads/connector/j/">here.</a>
-       * Move the jar file in this folder
+       * Move the jar file to this folder
     </pre>
-    i) Implement the jar file in you program
+    i) Implement the jar file in your program
     <br>
     <br>
     <pre>
@@ -27,7 +27,7 @@ IF you use <b>IntelliJ IDEA</b>
        * Go to Dependencies
        * Here add the jar file from your current project folder
     </pre>
-IF you use <b>Eclipse IDE</b>
+If you use <b>Eclipse IDE</b>
  <br>
  <br>
     i) Add the jar folder
